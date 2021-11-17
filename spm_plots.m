@@ -14,7 +14,7 @@ freq = -Nyq:F:Nyq-F;
 
 %Physical Parameters
 c = 2.998e8;
-lambda0 = 1550e-6;
+lambda0 = 1550e-9;
 w0 = 2*pi*c/lambda0;
 n0 = 1.5;
 n2 = 3e-20;
